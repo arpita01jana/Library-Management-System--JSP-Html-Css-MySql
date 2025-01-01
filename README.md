@@ -6,6 +6,8 @@ The primary goals include:
 3. Book Issuance and Return: Provide a mechanism for administrators to issue books to users, updating the database accordingly.
 4. Dashboard Functionality: Display lists of registered users, issued books for a particular user, returned books, and available books.
 5. User Interface: Ensure a smooth and efficient workflow for common tasks.
+
+   
 1. Frontend:
  HTML, CSS, JavaScript: Use these technologies to create the user interface of your Library Management System. HTML for structuring the content, CSS for styling, and JavaScript for adding dynamic behavior to the pages.
  JSP (JavaServer Pages): Since you've mentioned JSP in your stack, you can use it as a templating engine to generate dynamic content on the server side. JSP allows you to embed Java code directly into your HTML pages.
